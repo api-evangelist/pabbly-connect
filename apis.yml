@@ -24,6 +24,10 @@ apis:
       - type: Documentation
         url: https://www.pabbly.com/connect/integrations/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Pabbly
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pabbly-connect
   - type: Website
     url: https://www.pabbly.com/connect/
   - type: Documentation
