@@ -24,6 +24,12 @@ apis:
       - type: Documentation
         url: https://www.pabbly.com/connect/integrations/
 common:
+  - type: TrustCenter
+    url: security/pabbly-connect-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/pabbly-connect-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/pabbly-connect-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/Pabbly
   - type: LinkedIn
@@ -34,6 +40,8 @@ common:
     url: https://www.pabbly.com/connect/integrations/
   - type: Integrations
     url: https://www.pabbly.com/marketplace/
+  - url: https://www.pabbly.com/blog/feed/
+    type: Blog
 integrations:
   - name: Connect
   - name: Pabbly Plus
