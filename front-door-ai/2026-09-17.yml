@@ -1,0 +1,31 @@
+# Front Door AI Index — pabbly-connect — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: pabbly-connect
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.pabbly.com
+  final_host: www.pabbly.com
+  ownership: shared
+  owner: pabbly
+  shares_host_with:
+  - pabbly
+  inherited_from: null
+  verdict: scored
+  score: null
+  host_score: 27
+  density: null
+  words: 3665
+  tiers:
+    agentic: 10
+    core: 17
+    model: 0
+  ambiguous: 19
+  top_terms:
+    AI: 17
+    automation: 17
+    prompts: 7
+    AI agent: 2
+    agent: 2
+    chatbot: 1
