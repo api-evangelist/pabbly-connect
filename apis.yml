@@ -29,10 +29,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pabbly-connect.png
 tags:
   - No-Code
-  - Workflow-Automation
+  - Workflow Automation
 tags_raw:
   - No-Code
   - Workflow Automation
+  - Workflow-Automation
 url: >-
   https://raw.githubusercontent.com/api-evangelist/pabbly-connect/refs/heads/main/apis.yml
 created: 2026-03-27
@@ -45,9 +46,10 @@ apis:
       Pabbly Connect is a workflow automation platform for connecting cloud applications and automating business processes.
     humanURL: https://www.pabbly.com/connect/
     tags:
-      - Workflow-Automation
+      - Workflow Automation
     tags_raw:
       - Workflow Automation
+      - Workflow-Automation
     properties:
       - type: Documentation
         url: https://www.pabbly.com/connect/integrations/
