@@ -16,9 +16,27 @@ edges:
   detected: '2026-10-18'
   detected_by: mirror-platform-listings.py
   category: Zoom app
+- partner_name: HubSpot (own)
+  partner: hubspot
+  partner_match: mirror
+  mirror_match: domain+name-among-holders
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://ecosystem.hubspot.com/marketplace/listing/pabbly-connect-215930
+  mirror_of: hubspot/integrations/hubspot-integration-edges.yml
+  apps:
+  - Pabbly Connect
+  listing_count: 1
+  detected: '2026-10-21'
+  detected_by: mirror-platform-listings.py
+  category: CONNECTOR
 generated: '2026-10-18'
 method: searched
 source:
 - zoom/integrations/zoom-integration-edges.yml
 checked:
 - zoom/integrations/zoom-integration-edges.yml
+- hubspot/integrations/hubspot-integration-edges.yml
